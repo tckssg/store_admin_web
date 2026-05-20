@@ -1,0 +1,1 @@
+import{Kt as a,wt as t}from"./@element-plus-Bas7Erkq.js";import{t as e}from"./index-Bqd4TacH.js";var r={class:"layout-padding"};var d=e({},[["render",function(e,d){return a(),t("div",r)}],["__scopeId","data-v-bddfeb40"]]);export{d as default};

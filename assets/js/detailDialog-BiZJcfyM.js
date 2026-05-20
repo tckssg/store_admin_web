@@ -1,0 +1,1 @@
+import{t as a}from"./detailDialog-CXIckhIy.js";export{a as default};

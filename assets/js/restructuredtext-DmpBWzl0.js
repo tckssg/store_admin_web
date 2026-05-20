@@ -1,0 +1,1 @@
+import{Bt as o,zt as t}from"./monaco-editor-BKOvV6JJ.js";export{t as conf,o as language};

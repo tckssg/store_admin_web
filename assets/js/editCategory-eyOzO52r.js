@@ -1,0 +1,1 @@
+import{t}from"./editCategory-psJLKMrY.js";export{t as default};

@@ -1,0 +1,1 @@
+import{t}from"./editTenant-BlR-og5x.js";export{t as default};

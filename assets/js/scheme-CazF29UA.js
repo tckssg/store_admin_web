@@ -1,0 +1,1 @@
+import{At as o,kt as t}from"./monaco-editor-BKOvV6JJ.js";export{t as conf,o as language};

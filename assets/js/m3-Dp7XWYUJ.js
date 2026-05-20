@@ -1,0 +1,1 @@
+import{Nn as o,Pn as r}from"./monaco-editor-BKOvV6JJ.js";export{o as conf,r as language};

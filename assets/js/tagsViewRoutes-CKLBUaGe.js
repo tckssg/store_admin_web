@@ -1,0 +1,1 @@
+import{n as s}from"./pinia-BTp2J2Dq.js";import{n as e}from"./storage-CeBVaxRS.js";var t=s("tagsViewRoutes",{state:()=>({tagsViewRoutes:[],isTagsViewCurrenFull:!1}),actions:{async setTagsViewRoutes(s){this.tagsViewRoutes=s},setCurrenFullscreen(s){e.set("isTagsViewCurrenFull",s),this.isTagsViewCurrenFull=s}}});export{t};

@@ -1,0 +1,1 @@
+import{t}from"./editConfig-CcvFrMO4.js";export{t as default};

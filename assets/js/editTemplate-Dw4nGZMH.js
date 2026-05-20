@@ -1,0 +1,1 @@
+import{t}from"./editTemplate-CrSEaqq6.js";export{t as default};
