@@ -1,0 +1,1 @@
+import{t}from"./editTemplate-CgymTpmB.js";export{t as default};

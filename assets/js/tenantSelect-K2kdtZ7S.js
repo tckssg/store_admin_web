@@ -1,1 +1,0 @@
-import{t}from"./tenantSelect-Cv8ZLsYs.js";export{t as default};

@@ -1,1 +1,0 @@
-import{t}from"./editConfig-BFjTMlnh.js";export{t as default};

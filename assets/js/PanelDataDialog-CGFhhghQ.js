@@ -1,1 +1,0 @@
-import{Dt as a,Kt as t,kt as s,wn as e,wt as p}from"./@element-plus-Bas7Erkq.js";import{t as r}from"./vue-json-pretty-CmDLZCrH.js";var l=s({__name:"PanelDataDialog",props:{graphData:Object},setup:s=>(l,o)=>(t(),p("div",null,[a(e(r),{path:"res",data:s.graphData},null,8,["data"])]))});export{l as t};

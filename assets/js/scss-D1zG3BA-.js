@@ -1,1 +1,0 @@
-import{Dt as o,Ot as t}from"./monaco-editor-BKOvV6JJ.js";export{o as conf,t as language};

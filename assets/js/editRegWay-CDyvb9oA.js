@@ -1,0 +1,1 @@
+import{t}from"./editRegWay-CsamKkzV.js";export{t as default};

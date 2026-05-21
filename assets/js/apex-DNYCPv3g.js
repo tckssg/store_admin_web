@@ -1,0 +1,1 @@
+import{$r as o,Qr as r}from"./monaco-editor-COACPcRw.js";export{r as conf,o as language};

@@ -1,0 +1,1 @@
+import{t}from"./grantMenu-BWqAlBRv.js";export{t as default};

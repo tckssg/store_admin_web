@@ -1,0 +1,1 @@
+import{t}from"./about-umaMgUcr.js";export{t as default};

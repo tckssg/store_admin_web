@@ -1,1 +1,0 @@
-import{t}from"./genEntity-CRDYVefd.js";export{t as default};

@@ -1,1 +1,0 @@
-import{Rr as o,zr as r}from"./monaco-editor-BKOvV6JJ.js";export{o as conf,r as language};

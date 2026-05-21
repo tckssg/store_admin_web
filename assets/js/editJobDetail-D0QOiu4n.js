@@ -1,0 +1,1 @@
+import{t}from"./editJobDetail-BEEhQWJK.js";export{t as default};

@@ -1,0 +1,1 @@
+import{t}from"./hiprint-BimFoEIF.js";export{t as default};
