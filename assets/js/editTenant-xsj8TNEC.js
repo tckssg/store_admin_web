@@ -1,0 +1,1 @@
+import{t}from"./editTenant-BWuCh-eO.js";export{t as default};

@@ -1,1 +1,0 @@
-function t(t){if(!t)return"";const r=t.trim();if(!r)return"";if(/^(https?:)?\/\//i.test(r)||r.startsWith("data:")||r.startsWith("blob:"))return r;const n=(window.__env__?.VITE_API_URL||"").trim();if(!n)return r;const i=r.startsWith("/")?r:`/${r}`;return new URL(i,`${n.replace(/\/+$/,"")}/`).toString()}export{t};

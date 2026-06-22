@@ -1,0 +1,1 @@
+import{t}from"./editCategory-B5aqJhQ2.js";export{t as default};

@@ -1,1 +1,0 @@
-import{n as s}from"./pinia-BTp2J2Dq.js";var t=s("requestOldRoutes",{state:()=>({requestOldRoutes:[]}),actions:{async setRequestOldRoutes(s){this.requestOldRoutes=s}}});export{t};

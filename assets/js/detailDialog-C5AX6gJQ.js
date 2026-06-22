@@ -1,0 +1,1 @@
+import{t as a}from"./detailDialog-CZIpDZa3.js";export{a as default};

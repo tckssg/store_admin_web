@@ -1,1 +1,0 @@
-import{at as o,ot as t}from"./monaco-editor-COACPcRw.js";export{o as conf,t as language};

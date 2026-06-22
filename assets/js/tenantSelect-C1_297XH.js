@@ -1,1 +1,0 @@
-import{t}from"./tenantSelect-DJGcJkpT.js";export{t as default};

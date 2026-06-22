@@ -1,0 +1,1 @@
+import{It as a,_t as t,mn as s,mt as r,yt as o}from"./flow-DxiTnMg_.js";import{c as p}from"./vue-vendor-DeSSRQKJ.js";var e=o({__name:"PanelDataDialog",props:{graphData:Object},setup:o=>(e,l)=>(a(),r("div",null,[t(s(p),{path:"res",data:o.graphData},null,8,["data"])]))});export{e as t};

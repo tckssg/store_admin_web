@@ -1,1 +1,0 @@
-import"./@element-plus-Bas7Erkq.js";import{t}from"./userInfo-CiahboQ0.js";import{a as s}from"./index-Cu4HobC8.js";function n(s){return t().userInfos.authBtnList.some(t=>t===s)}function r(s){let n=!1;return t().userInfos.authBtnList.map(t=>{s.map(s=>{t===s&&(n=!0)})}),n}function e(n){return s(n,t().userInfos.authBtnList)}export{e as n,r,n as t};

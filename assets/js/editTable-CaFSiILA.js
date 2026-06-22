@@ -1,0 +1,1 @@
+import{t}from"./editTable-JB1wM0x2.js";export{t as default};

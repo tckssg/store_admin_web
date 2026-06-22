@@ -1,0 +1,1 @@
+import{t}from"./editNotice-BWQmeC3c.js";export{t as default};

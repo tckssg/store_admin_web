@@ -1,1 +1,0 @@
-import{ei as o,ti as i}from"./monaco-editor-COACPcRw.js";export{o as conf,i as language};

@@ -1,0 +1,1 @@
+import{t}from"./editRegWay-BdvarKLu.js";export{t as default};

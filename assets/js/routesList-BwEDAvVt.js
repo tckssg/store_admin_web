@@ -1,1 +1,0 @@
-import{n as s}from"./pinia-BTp2J2Dq.js";var o=s("routesList",{state:()=>({routesList:[],isColumnsMenuHover:!1,isColumnsNavHover:!1}),actions:{async setRoutesList(s){this.routesList=s},async setColumnsMenuHover(s){this.isColumnsMenuHover=s},async setColumnsNavHover(s){this.isColumnsNavHover=s}}});export{o as t};
