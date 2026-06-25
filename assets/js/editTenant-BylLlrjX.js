@@ -1,0 +1,1 @@
+import{t}from"./editTenant-nfC_gyI_.js";export{t as default};

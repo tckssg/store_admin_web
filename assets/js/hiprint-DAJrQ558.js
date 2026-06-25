@@ -1,0 +1,1 @@
+import{t}from"./hiprint-C17rO61b.js";export{t as default};

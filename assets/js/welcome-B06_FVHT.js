@@ -1,0 +1,1 @@
+import{t as e}from"./welcome-CtqW-3rZ.js";export{e as default};

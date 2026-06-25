@@ -1,0 +1,1 @@
+import{t}from"./editTemplate-rBgx4GBN.js";export{t as default};

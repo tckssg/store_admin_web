@@ -1,1 +1,0 @@
-import{t}from"./editTenant-BvCR3PJt.js";export{t as default};

@@ -1,0 +1,1 @@
+import{t as a}from"./detailDialog-5SrOOIM4.js";export{a as default};
