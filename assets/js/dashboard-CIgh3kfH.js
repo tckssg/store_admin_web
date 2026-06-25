@@ -1,0 +1,1 @@
+import{It as a,mt as r}from"./flow-DxiTnMg_.js";import{t}from"./index-BrKGXw3Q.js";var d={class:"layout-padding"};var o=t({},[["render",function(t,o){return a(),r("div",d)}],["__scopeId","data-v-bddfeb40"]]);export{o as default};

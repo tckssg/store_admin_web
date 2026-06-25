@@ -1,1 +1,0 @@
-import{t}from"./tenantSelect-B4OLwPMe.js";export{t as default};

@@ -1,0 +1,1 @@
+import{t}from"./editTemplate-CfHiUP8n.js";export{t as default};

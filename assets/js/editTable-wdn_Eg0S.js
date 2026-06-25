@@ -1,0 +1,1 @@
+import{t}from"./editTable-Ck3IO7Os.js";export{t as default};

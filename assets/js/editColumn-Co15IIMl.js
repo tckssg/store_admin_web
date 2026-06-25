@@ -1,0 +1,1 @@
+import{t}from"./editColumn-B7TTC2MN.js";export{t as default};

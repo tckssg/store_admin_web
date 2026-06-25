@@ -1,1 +1,0 @@
-import{t}from"./editConfig-DNktbfad.js";export{t as default};

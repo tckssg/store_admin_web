@@ -1,0 +1,1 @@
+import{t}from"./editConfig-fKyiTmog.js";export{t as default};

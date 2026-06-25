@@ -1,0 +1,1 @@
+import{t}from"./editDictType-B98l4Ejo.js";export{t as default};

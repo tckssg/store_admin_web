@@ -1,1 +1,0 @@
-import{t}from"./genEntity-8q9LXoDY.js";export{t as default};

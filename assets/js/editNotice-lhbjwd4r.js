@@ -1,0 +1,1 @@
+import{t}from"./editNotice-DCykfQk6.js";export{t as default};
