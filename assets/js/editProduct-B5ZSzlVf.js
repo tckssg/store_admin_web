@@ -1,0 +1,1 @@
+import{t}from"./editProduct-_v3uGTvA.js";export{t as default};

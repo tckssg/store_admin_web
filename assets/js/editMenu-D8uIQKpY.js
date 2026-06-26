@@ -1,0 +1,1 @@
+import{t}from"./editMenu-CapjNT3T.js";export{t as default};

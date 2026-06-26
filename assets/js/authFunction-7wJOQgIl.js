@@ -1,1 +1,0 @@
-import"./flow-DxiTnMg_.js";import{t}from"./userInfo-CKeHlP4B.js";import{a as s}from"./index-ZUuqlgDm.js";function n(s){return t().userInfos.authBtnList.some(t=>t===s)}function r(s){let n=!1;return t().userInfos.authBtnList.map(t=>{s.map(s=>{t===s&&(n=!0)})}),n}function o(n){return s(n,t().userInfos.authBtnList)}export{o as n,r,n as t};
