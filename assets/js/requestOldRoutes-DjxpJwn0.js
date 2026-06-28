@@ -1,1 +1,0 @@
-import{fn as e}from"./vue-vendor-DeSSRQKJ.js";var s=e("requestOldRoutes",{state:()=>({requestOldRoutes:[]}),actions:{async setRequestOldRoutes(e){this.requestOldRoutes=e}}});export{s as t};

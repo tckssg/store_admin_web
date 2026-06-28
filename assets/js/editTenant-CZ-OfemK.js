@@ -1,1 +1,0 @@
-import{t}from"./editTenant-wIot6l4D.js";export{t as default};

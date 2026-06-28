@@ -1,1 +1,0 @@
-import{t}from"./editConfig-bq-72Q6A.js";export{t as default};

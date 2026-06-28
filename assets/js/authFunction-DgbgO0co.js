@@ -1,0 +1,1 @@
+import"./flow-Cm4HqS5u.js";import{a as t,g as n}from"./index-CmjjIsLh.js";function s(t){return n().userInfos.authBtnList.some(n=>n===t)}function r(t){let s=!1;return n().userInfos.authBtnList.map(n=>{t.map(t=>{n===t&&(s=!0)})}),s}function o(s){return t(s,n().userInfos.authBtnList)}export{o as n,r,s as t};

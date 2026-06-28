@@ -1,1 +1,0 @@
-import{t}from"./genEntity-z3NejAID.js";export{t as default};

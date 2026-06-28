@@ -1,1 +1,0 @@
-import{c as o}from"./vendor-BDuaRP6R.js";export default o();

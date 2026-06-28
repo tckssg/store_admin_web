@@ -1,1 +1,0 @@
-import{t}from"./tenantSelect-C77SItCm.js";export{t as default};
